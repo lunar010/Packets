@@ -1,0 +1,5 @@
+name: projectPacketLogger
+version: 3.0
+author: Lunar
+main: lunar.packetlogger.update.Main
+description: packet logger (discord webhook)
